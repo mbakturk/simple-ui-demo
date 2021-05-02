@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "amd",
+      "target": "es2015",
+      "outFile": "dist/index.js",
+      "moduleResolution": "classic",
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "lib": ["es2015", "DOM"]
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+    }
