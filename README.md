@@ -2,10 +2,10 @@
 ```
 npm i
 ```
-# Build
+# Building
 ```
 npm run build
 ```
-# Execute
+# Execution
 
 Open **index.html** file on any browser.
